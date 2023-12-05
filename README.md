@@ -11,7 +11,7 @@ $ apt upgrade
 $ pkg install python3
 $ pkg install git
 $ git clone https://github.com/Whomrx666/osintgram.git
-$ cd osintig
+$ cd osintgram
 $ pip install -r requirements.txt
 $ bash install.sh
 $ python3 osintgram.py
