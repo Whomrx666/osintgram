@@ -7,7 +7,10 @@ This is a tool for searching or osint on Instagram to find target information
 ## Instalations
 ```
 $ apt update
-$ apt upgrade 
+$ apt upgrade
+$ pkg install python3
+$ pkg install git
+$ git clone https://github.com/Whomrx666/osintgram.git
 $ cd osintig
 $ pip install -r requirements.txt
 $ bash install.sh
