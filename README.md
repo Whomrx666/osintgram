@@ -14,6 +14,7 @@ $ git clone https://github.com/Whomrx666/osintgram.git
 $ cd osintgram
 $ pip install -r requirements.txt
 $ bash install.sh
+$ python -m pip install instaloader
 $ python3 osintgram.py
 ```
 ## Instructions
